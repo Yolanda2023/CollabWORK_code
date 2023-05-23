@@ -45,12 +45,9 @@ Please modify the paths, file names, and the keywords as per your requirements b
 
 Note that the scraping process may take a long time due to the large amount of data on Twitter, and sometimes the script might encounter exceptions when the targeted elements are not found. This usually happens when the page hasn't loaded completely. The script handles these exceptions and continues with the scraping.
 
-Please also make sure you abide by Twitter's policy on data scraping.
 
 ## Note
 This script works as of the last update on May 23, 2023. Twitter's website structure may change over time, which might make the script outdated. If this happens, please update the xpaths in the script accordingly. 
-
-Please also remember that scraping and using the data should comply with both the website's terms of service and your local laws and regulations.
 
 
 # Twitter Sentiment Analysis
